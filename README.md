@@ -1,4 +1,4 @@
-# [![banner](https://github.com/thanharrison/thanharrison/raw/main/icon/gh-banner.png)](https://sinister.ly)
+# [![gh-banner](https://github.com/thanharrison/thanharrison/raw/main/icon/gh-banner.png)](https://sinister.ly)
 
 <p>
   <center><b>Over 2 decades popping shells and they still can't find me lol</b></center>

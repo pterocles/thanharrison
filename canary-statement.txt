@@ -13,6 +13,7 @@ GitHub - https://github.com/thanharrison
 Keybase - https://keybase.io/paradoxus
 Mastadon - https://hachyderm.io/@pterocles
 Matrix - @antisec-:matrix.org
+Cwtch - vndgccp2cbemttbhbxedmefkbebg2tamhpan6t3gyt22anszo3d526id
 
 In the event this is not signed for two weeks (around 2022-06-20), this switch will activate:
 
@@ -21,26 +22,26 @@ CONFIRM: ["53 47 55 67 5a 6g 56 74 59 6w 78 6k 5v 43 42 70 62 69 42 30 61 47 55 
 All precautions are being taken.
 
 Latest bitcoin block hash:
-000000000000000000018e08d863713b4d14b2fa4f377af4c3d3a34845dfadb2
+000000000000000000093ce6d1de9e833508d46e7799c0190f343767427cb429
 
 I will include a link to a recent BTC block hash & news article[2] in each update to establish that the signature was not pre-generated.
 
 0. https://keyserver.ubuntu.com/pks/lookup?search=pterocles%40proton.me&fingerprint=on&op=index
 1. https://raw.githubusercontent.com/thanharrison/thanharrison/master/canary-statement.txt
-2. https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-06-05-22/index.html
+2. https://nypost.com/2022/06/05/to-prevent-a-food-crisis-biden-must-ok-naval-escort-of-ukrainian-grain/
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEfywhd7IvEGtOOS2N7rxhz6ckLF8FAmKcs3UACgkQ7rxhz6ck
-LF9o8Q/+MHLLkrS0EUW75r3xJUenfBzyo/Phj7y8wlxptsY5oppOrxElUHMp3aqA
-H8OPdCC4qTRZdIquS8iLi0CnhaEhYReS0vytNGGJSdLhQbtdNS7Ye5KVHUztvPGF
-RX6Si+bezr7NVo5iK2N8DcPdVc8x0FfOUCoitpp2+8OvJWVum5fONmykstTI97SX
-RTUDiwoJOLp56FVQxP8NLW8X3HyNF1rnrCLFNJE7Y63un4bCJ3IoNGsTdzqkdmeN
-+uBPYkUhPiYr7qW8YBhYHa8yMdDyrjOQ+IHL22XIYePyE8Kjm1VsW3m9s4DUnpMt
-I3+QX3ya7LWT+SGHw60JgDCiR+b2MEIJctLDJ5WhTkwOjwLyvzVZ+3CpVm3tPCIt
-DlzQ+AY6Tqcdi0jMEE7lOgU+1dIjTuzvkPhblMJ5J9tD4iRrrwYZs8LobM6qtQoj
-FJ1AbvE7r4AuYBhWs7a3vRfrKh7jzk8jNnKR23YXteIzRoeYFDnezgPR7XGN5UtP
-oj2SLRceXaKYJlthp16DDq1+WxZPslks/YtlhaXefigaiInScMO5WlCb043IYqF2
-qq7m5r71gWPi4PCTu9n16rnAzTXLYB/OpIJVtJ27QQhPgdcBuKkxv+claJsnhg4r
-Hm/GNoI0zp1S/o4tCoFoXbq5LYtnEt6m1t12ON/8ZJX7MOlS1yE=
-=/3zx
+iQIzBAEBCAAdFiEEfywhd7IvEGtOOS2N7rxhz6ckLF8FAmKdKnUACgkQ7rxhz6ck
+LF+jkQ/+LeCT+UF7h3A2BaE01PFXJzlBsZnK8OInON2a/G1+jbMpjUxRydUU0ymP
+Q3RCooeb4Nd1q2LP+tscIauzm1BaFFsBc4438orrp5NgVnEq48/MSRinu825Tz+4
+Utm7sJW3eWY/2oooKryi0+r07QpNo6Qs+VrHM+dad6LUcsR+mflMOW161UXABv0i
+DGRr6yKk2vgFkpMVL8VD1sNNnOz0LFq7AYd2DZpQbtEMAPJWFE9YY4rFP1dqiPRd
+sRyv5Wj0k8n/avHsHbInZg29/P4PImzwqVaUjsU0kfEdlXMGYpfJIr/QKQUyyz4B
+M4poV+tSfz15yR7VVcVMHEmG25ktSt8e0Udh6lObC/ih9nTHm/djZV2d+xEdGRW6
++hV9iVbzC2fIjUJrr7R0wW1U0nGfQso9xsVOY3Aky4k4u5qVfzod1xqMypAU3KuE
+M64n8ldoKlJ7zPlRfzZG7NQ46U3vlEC6ge+N0xcIRkDlZB7A1ITt2LeBrM4ILRFG
+3O5Z8c+JBN4/+5guhvqM5DwnMB15WuJuX1lcCKomgJI5bSYw2VYCUsMRhYOTktc7
++J1CWQnhEeYzNZ6juzlLG1y2DEqA3Sj3JJA2p7DHvrsjpXezCD/9Os9F6ZZ2uufc
+gqHwgMo42d4C/nEtRyylKsYI2BlnADffKOgIsIud2we4HTQALhY=
+=m6qm
 -----END PGP SIGNATURE-----

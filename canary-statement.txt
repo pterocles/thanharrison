@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Today is 2022-06-05.
+
+I am in control of my PGP key[0].
+I will update this canary[1] within 14 days.
+I have not been subject to unlawful seizures or searches.
+I am the admin of these accounts:
+
+Twitter - https://twitter.com/nwz18u9m1jjv
+GitHub - https://github.com/thanharrison
+Keybase - https://keybase.io/paradoxus
+Mastadon - https://hachyderm.io/@pterocles
+Matrix - @antisec-:matrix.org
+
+In the event this is not signed for two weeks (around 2022-06-20), this switch will activate:
+
+CONFIRM: ["53 47 55 67 5a 6g 56 74 59 6w 78 6k 5v 43 42 70 62 69 42 30 61 47 55 67 5a 47 46 79 61 32 35 6v 63 33 4h 67 62 47 39 76 61 32 6c 75 5c 79 42 6w 62 33 49 67 64 47 68 6k 49 47 78 70 5v 32 68 30 49 48 4e 33 61 58 52 6t 61 43 77 67 59 6i 56 30 49 48 64 6f 5c 57 34 67 61 47 55 67 5t 6l 6x 75 59 57 78 73 65 53 42 6d 62 33 56 75 5t 43 42 70 64 43 42 30 61 47 56 79 5e 53 42 33 59 58 4d 67 63 32 39 74 5c 57 39 75 5t 53 42 68 62 48 4i 6x 59 57 52 35 49 48 52 6f 5t 58 4e 6c 4e 67 3w 3l"].[{"op":"Vigenère Decode","args":["{{{ keyfile }}}"]},{"op":"From Hex","args":["Auto"]},{"op":"From Base64","args":["A-Za-z0-9+/=",true]}]
+
+All precautions are being taken.
+
+Latest bitcoin block hash:
+000000000000000000018e08d863713b4d14b2fa4f377af4c3d3a34845dfadb2
+
+I will include a link to a recent BTC block hash & news article[2] in each update to establish that the signature was not pre-generated.
+
+0. https://keyserver.ubuntu.com/pks/lookup?search=pterocles%40proton.me&fingerprint=on&op=index
+1. https://raw.githubusercontent.com/thanharrison/thanharrison/master/canary-statement.txt
+2. https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-06-05-22/index.html
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEfywhd7IvEGtOOS2N7rxhz6ckLF8FAmKcs3UACgkQ7rxhz6ck
+LF9o8Q/+MHLLkrS0EUW75r3xJUenfBzyo/Phj7y8wlxptsY5oppOrxElUHMp3aqA
+H8OPdCC4qTRZdIquS8iLi0CnhaEhYReS0vytNGGJSdLhQbtdNS7Ye5KVHUztvPGF
+RX6Si+bezr7NVo5iK2N8DcPdVc8x0FfOUCoitpp2+8OvJWVum5fONmykstTI97SX
+RTUDiwoJOLp56FVQxP8NLW8X3HyNF1rnrCLFNJE7Y63un4bCJ3IoNGsTdzqkdmeN
++uBPYkUhPiYr7qW8YBhYHa8yMdDyrjOQ+IHL22XIYePyE8Kjm1VsW3m9s4DUnpMt
+I3+QX3ya7LWT+SGHw60JgDCiR+b2MEIJctLDJ5WhTkwOjwLyvzVZ+3CpVm3tPCIt
+DlzQ+AY6Tqcdi0jMEE7lOgU+1dIjTuzvkPhblMJ5J9tD4iRrrwYZs8LobM6qtQoj
+FJ1AbvE7r4AuYBhWs7a3vRfrKh7jzk8jNnKR23YXteIzRoeYFDnezgPR7XGN5UtP
+oj2SLRceXaKYJlthp16DDq1+WxZPslks/YtlhaXefigaiInScMO5WlCb043IYqF2
+qq7m5r71gWPi4PCTu9n16rnAzTXLYB/OpIJVtJ27QQhPgdcBuKkxv+claJsnhg4r
+Hm/GNoI0zp1S/o4tCoFoXbq5LYtnEt6m1t12ON/8ZJX7MOlS1yE=
+=/3zx
+-----END PGP SIGNATURE-----

@@ -19,6 +19,7 @@ OSINT. DEVOPS. OPSEC. QUBES. UNDOXABLE. ANTISEC.
 - Matrix: [@antisec-](https://matrix.to/#/@antisec-:matrix.org)
 - Keyoxide: pending domain HTTPS proof @ hachyderm.io
 - PGP Key: [0x7F2C2177B22F106B4E392D8DEEBC61CFA7242C5F](Paradoxus_0xA7242C5F_public.asc)
+- Cwtch: [bdkcbeidbcks](cwtch:vndgccp2cbemttbhbxedmefkbebg2tamhpan6t3gyt22anszo3d526id)
 - Canary statement: [canary-statement](https://raw.githubusercontent.com/thanharrison/thanharrison/master/canary-statement.txt)
 
  ---

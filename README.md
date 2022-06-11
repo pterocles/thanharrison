@@ -7,12 +7,6 @@
 
 OSINT. DEVOPS. OPSEC. QUBES. UNDOXABLE. ANTISEC.
 
-35N. guess my name and you get a treat.
-
-2b 7e 2f 4d 22 30 6c 34 70 6f 2b 38 22 21 2a 40 22 37 2f 43 3a 30 6c 35 3c 6a 75 35 3c 42 79 31 3b 36 2a 40 23 69 60 69 23 21 71 4e 3b 30 2f 4e 3d 6f 74 40 3c 36 2f 43 3c 7e 2f 33 3d 7a 79 6c 3b 6a 2f 42 70 7e 2b 31 3d 7e 7c 4e
-
-  ---
-
 ### where
 - Keybase: [@paradoxus](https://keybase.io/paradoxus)
 - Matrix: [@antisec-](https://matrix.to/#/@antisec-:matrix.org)
@@ -34,7 +28,7 @@ It's a non-invasive and no BS blog about:
 #### CEH | CISSP | SEC+ | Linux+
 
 #### RIP
-LulzBoat, D4rk0d3, NovaCygni, storm, AnonyPla
+LulzBoat, D4rk0d3, NovaCygni, storm
 
 ##### "There are times when the world is rearranging itself, and at times like that, the right solution can change the world."
 

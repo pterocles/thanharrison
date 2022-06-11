@@ -9,15 +9,13 @@ OSINT. DEVOPS. OPSEC. QUBES. UNDOXABLE. ANTISEC.
 
 35N. guess my name and you get a treat.
 
-64 47 68 6r 49 47 5a 68 59 6v 4a 70 59 79 42 76 5d 69 42 6o 65 57 4x 6w 63 6w 4t 77 59 57 4e 6t 49 47 6c 7d 49 47 6q 75 5x 47 56 6w 5s 43 42 68 49 48 4t 30 63 6d 46 75 5r 32 55 67 63 47 78 68 59 32 55 73 49 47 46 75 5a 43 42 30 61 47 6f 7o 49 47 45 67 63 33 52 79 59 57 35 6b 5u 53 42 6u 63 6s 45 67 64 47 38 67 63 6d 56 7r 61 57 52 6c
+2b 7e 2f 4d 22 30 6c 34 70 6f 2b 38 22 21 2a 40 22 37 2f 43 3a 30 6c 35 3c 6a 75 35 3c 42 79 31 3b 36 2a 40 23 69 60 69 23 21 71 4e 3b 30 2f 4e 3d 6f 74 40 3c 36 2f 43 3c 7e 2f 33 3d 7a 79 6c 3b 6a 2f 42 70 7e 2b 31 3d 7e 7c 4e
 
   ---
 
 ### where
-- Mastadon: [@pterocles](https://hachyderm.io/@pterocles)
 - Keybase: [@paradoxus](https://keybase.io/paradoxus)
 - Matrix: [@antisec-](https://matrix.to/#/@antisec-:matrix.org)
-- Keyoxide: pending domain HTTPS proof @ hachyderm.io
 - PGP Key: [0x7F2C2177B22F106B4E392D8DEEBC61CFA7242C5F](Paradoxus_0xA7242C5F_public.asc)
 - Cwtch: vndgccp2cbemttbhbxedmefkbebg2tamhpan6t3gyt22anszo3d526id
 - Canary statement: [canary-statement](https://raw.githubusercontent.com/thanharrison/thanharrison/master/canary-statement.txt)

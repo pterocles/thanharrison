@@ -11,7 +11,8 @@ OSINT. DEVOPS. OPSEC. QUBES. UNDOXABLE. ANTISEC.
 - Keybase: [@paradoxus](https://keybase.io/paradoxus)
 - Matrix: [@antisec-](https://matrix.to/#/@antisec-:matrix.org)
 - PGP Key: [0x7F2C2177B22F106B4E392D8DEEBC61CFA7242C5F](Paradoxus_0xA7242C5F_public.asc)
-- Cwtch: vndgccp2cbemttbhbxedmefkbebg2tamhpan6t3gyt22anszo3d526id
+- Cwtch: available upon request
+- Session: available upon request
 - Canary statement: [canary-statement](https://raw.githubusercontent.com/thanharrison/thanharrison/master/canary-statement.txt)
 
  ---

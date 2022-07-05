@@ -13,7 +13,6 @@ OSINT. DEVOPS. OPSEC. QUBES. UNDOXABLE. ANTISEC.
 - PGP Key: [0x7F2C2177B22F106B4E392D8DEEBC61CFA7242C5F](Paradoxus_0xA7242C5F_public.asc)
 - Cwtch: available upon request
 - Session: available upon request
-- Canary statement: [canary-statement](https://raw.githubusercontent.com/thanharrison/thanharrison/master/canary-statement.txt)
 
  ---
 

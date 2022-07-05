@@ -1,0 +1,50 @@
+I hereby claim:
+
+  * I am an admin of https://thanharrison.github.io
+  * I am paradoxus (https://keybase.io/paradoxus) on keybase.
+  * I have a public key ASB-2MPTUeAAskCkXGhrBtEMS68IWm2dOeam5axXNwcyDAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207ed8c3d351e000b240a45c686b06d10c4baf085a6d9d39e6a6e5ac573707320c0a",
+      "host": "keybase.io",
+      "kid": "01207ed8c3d351e000b240a45c686b06d10c4baf085a6d9d39e6a6e5ac573707320c0a",
+      "uid": "9402a1fad8a95954eadd53905b0a0219",
+      "username": "paradoxus"
+    },
+    "merkle_root": {
+      "ctime": 1657061264,
+      "hash": "b75d611833b0d534c60ba2b71f72e2fcb149f657f96890d839816147d983a2da8c6d7fd6dff3e517f9f563b82b543d017bacc970155a884667166d499c750a77",
+      "hash_meta": "ebb263dda0ace5ebd50d4440ad549f12491ce34270214f2466250a49045822c4",
+      "seqno": 22795952
+    },
+    "service": {
+      "entropy": "Wxkam8O7jSUUT/8Sp1NRh++G",
+      "hostname": "thanharrison.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1657061303,
+  "expire_in": 504576000,
+  "prev": "6a534d51d1bf3066e440611aa71093e81d92f737c0b50b613cf4897c5a59ae69",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgftjD01HgALJApFxoawbRDEuvCFptnTnmpuWsVzcHMgwKp3BheWxvYWTESpcCD8QgalNNUdG/MGbkQGEapxCT6B2S9zfAtQthPPSJfFpZrmnEIJdkUuykOh/M4oQsY0qguzeF48uYIdQe4mM6j5RWuyysAgHCo3NpZ8RA8BbwRY8e/W4Y45z3xFr8fNLdD/Jt8FluDAgsM025yenXAk5c1g9X//cHpr4ezcvc/Fss0eLnWOBEMZ46uzsLDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDotm5NgPwZXsFTWOJRx/qj4zxNdHU95aDWWvnBAbdY4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/paradoxus
